@@ -5,6 +5,4 @@ return (a+b)/2
 }
 
 
-
-
-?>
+?> funkcja cokolwiek
